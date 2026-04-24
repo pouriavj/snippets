@@ -9,7 +9,7 @@ A full-stack Next.js application for creating, editing, and managing code snippe
 - **Database Integration**: PostgreSQL for persistent storage; queries optimized for SSR.
 - **Rendering Modes**: SSR for dynamic data, SSG via `generateStaticParams` for instant loads on `/snippets/[id]`, CSR for forms with `useActionState`.
 - **Server Actions**: Secure mutations (e.g., delete) without client JS; uses `startTransition` for smooth UX.
-- **Caching**: Force-dynamic or revalidate (e.g., `revalidate = 3`); pre-renders all snippet pages for speed.
+- **Caching**: Revalidating paths, pre-renders all snippet pages for speed.
 - **UI/UX**: Tailwind CSS, custom icons, loading spinners, and a fun 404 page.
 - **No-JS Support**: Core pages work without browser JS.
 
