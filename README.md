@@ -30,3 +30,4 @@ A full-stack Next.js application for creating, editing, and managing code snippe
 ## Installation
 
 1. Clone the repo:
+`git clone https://github.com/pouriavj/snippets.git`
