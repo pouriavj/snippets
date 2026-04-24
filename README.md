@@ -1,6 +1,6 @@
 # Snippets
 
-A modern Next.js application for creating, editing, and managing code snippets. Features a rich Monaco code editor, PostgreSQL backend with server-side rendering (SSR), static site generation (SSG) for dynamic routes, client-side rendering (CSR) for interactive forms, and full caching control. Supports no-JS functionality via server actions and includes custom loading/404 pages.
+A full-stack Next.js application for creating, editing, and managing code snippets. Features a rich Monaco code editor, PostgreSQL backend with server-side rendering (SSR), static site generation (SSG) for dynamic routes, client-side rendering (CSR) for interactive forms, and full caching control. Supports no-JS functionality via server actions and includes custom loading/404 pages.
 
 ## Features
 
