@@ -15,7 +15,7 @@ A modern Next.js application for creating, editing, and managing code snippets. 
 
 ## Tech Stack
 
-- **Framework**: Next.js 14+ (App Router) – SSR, SSG, CSR, routing.
+- **Framework**: Next.js 15+ (App Router) – SSR, SSG, CSR, routing.
 - **Database**: PostgreSQL – Direct queries via `pg` lib.
 - **Editor**: Monaco Editor (`@monaco-editor/react`).
 - **Styling**: Tailwind CSS.
